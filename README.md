@@ -1,34 +1,40 @@
-<h1 align="center">Hi 👋, I'm Chirag Neelgund</h1>
-<h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
+<h1 align="center">こんにちは 👋 I'm Srinidhi M</h1>
+<h3 align="center">Computer Science Student | Android Developer | Java & DSA Learner | Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;PCB+Design+%26+VLSI+Learner;Full+Stack+Developer;Hackathon+Builder+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Android+Developer;Java+%26+DSA+Learner;Web+Development+Enthusiast;Learning+Japanese+🇯🇵;Building+Practical+Digital+Solutions+✨" />
 </p>
 
 ---
 
-<img align="right" alt="Gojo" width="350" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif">
+<img align="right" alt="Japan Scenery" width="350" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
 
-## 🚀 About Me
+## 🌸 About Me
 
-- 🎓 Electronics & Communication Engineering Student  
-- 💻 Interested in Python, AI/ML, and Full Stack Development  
-- ⚡ Passionate about PCB Design , Core Electronics Projects  
-- 🔭 Currently building Sports Analytics and AI Projects  
-- 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
-- 🌱 Learning Backend Development  
+- 🎓 Computer Science Engineering Student
+- 📊 Current CGPA: **9.13**
+- 📱 Android Developer passionate about building useful applications
+- ☕ Currently learning **Data Structures & Algorithms in Java**
+- 🌐 Exploring Web Development and Software Development
+- 🔥 Experienced with Firebase Authentication & Cloud Storage
+- 🇯🇵 Learning Japanese Language
+- 🏆 Selected for the Internal Round of Smart India Hackathon (SIH)
+- 💡 Always curious about creating practical solutions to real-world problems
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chirag-neelgund-8b2b50317/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+
+<a href="mailto:nidhim2606@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-<a href="mailto:chiragbn091@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+
+<a href="https://github.com/Nidhi-m2606">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+
 </p>
 
 ---
@@ -37,72 +43,96 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-<img src="https://skillicons.dev/icons?i=flask" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
 
 </p>
 
 ---
 
-## ⚙️ Electronics & Hardware
+## 🚀 Featured Projects
 
-- 🔌 PCB Design  
-- 🧠 Verilog & SystemVerilog  
-- 📊 MATLAB  
-- 🛠 Cadence Virtuoso
+### 📂 Digital Diary App
 
-  ## ⚙️ Software & Development
+📱 Android-based cloud document storage application inspired by DigiLocker.
 
-- 🐍 Python
-- 🌐 Node.js & Express.js
-- 🤖 AI/ML
-- 🧠 Flask
-- 💻 Full Stack Development
-- 🛠 VS Code
-- 🔧 Git & GitHub
-- 📊 Sports Analytics 
+✨ Features:
+- Secure Login Authentication
+- Cloud Document Storage
+- Anywhere Access
+- User-Friendly Interface
+
+🛠 Tech Stack:
+- Kotlin
+- Firebase Authentication
+- Firebase Cloud Storage
+
+---
+
+### 💰 Spending Log
+
+A web application for managing and tracking daily expenses.
+
+✨ Features:
+- Expense Recording
+- Category Management
+- Expense Summary Dashboard
+- Organized Financial Tracking
+
+🛠 Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+---
+
+## 🎯 Currently Learning
+
+- ☕ Java DSA
+- 🔍 Problem Solving
+- 🌐 Advanced Web Development
+- 📱 Android Application Development
+- 🇯🇵 Japanese Language
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Selected in Internal Round of Smart India Hackathon (SIH)
+- 🛠 Active Member of Makerspace Technical Club
+- 💡 Participated in Ideathons and Innovation Activities
+- 🇯🇵 Learning Japanese with Beginner Conversational Proficiency
+- 📈 Maintaining Strong Academic Performance with CGPA 9.13
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirrrag17&theme=tokyonight" height="180"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhi-m2606&show_icons=true&theme=tokyonight" height="180"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-m2606&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Srinidhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi-m2606&theme=tokyo-night)](https://github.com/Nidhi-m2606)
 
 ---
 
-## ✨ Fun Quote
+## 🌸 Fun Fact
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-⭐️ From <b>Chirrrag17</b>
-</p>
+```text
+Learning Japanese while building apps and solving coding problems ✨
